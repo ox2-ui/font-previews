@@ -1,0 +1,51 @@
+.roboto-condensed-regular {
+  font-family: 'Roboto Condensed';
+  font-weight: 400;
+}
+
+.roboto-condensed-light {
+  font-family: 'Roboto Condensed';
+  font-weight: 300;
+}
+
+.roboto-thin {
+  font-family: 'Roboto';
+  font-weight: 100;
+}
+
+.roboto-light {
+  font-family: 'Roboto';
+  font-weight: 300;
+}
+
+.roboto-regular {
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+
+.roboto-medium {
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+
+.roboto-bold {
+  font-family: 'Roboto';
+  font-weight: 700;
+}
+
+.roboto-black {
+  font-family: 'Roboto';
+  font-weight: 900;
+}
+
+.roboto-italic {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-style: italic;
+}
+
+.roboto-bold-italic {
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-style: italic;
+}
